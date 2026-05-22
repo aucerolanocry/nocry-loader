@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-SERVER="https://SEU-APP.onrender.com"
+SERVER="https://nocry-loader.onrender.com"
 
 echo ""
 echo "  ⭒ NOCRY SYSTEM - INICIANDO..."
